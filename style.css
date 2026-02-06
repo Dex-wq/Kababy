@@ -17,7 +17,7 @@ body {
 .hero {
   position: fixed;
   inset: 0;
-  background: url("23.jpeg") center/cover no-repeat;
+  background: url("32.jpeg") center/cover no-repeat;
   filter: saturate(1.05) contrast(1.05);
   z-index: -3;
 }
@@ -217,5 +217,6 @@ h1 {
   50%  { transform: translateY(-12px) rotate(var(--r)); }
   100% { transform: translateY(0) rotate(var(--r)); }
 }
+
 
 
